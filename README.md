@@ -1,16 +1,16 @@
-Map Distance Measurement Tool
+# Map Distance Measurement Tool
 
-Usage:
+## Usage:
     python measure.py <image_file>
 
-Description:
+## Description:
     Opens an image and allows you to calibrate and measure distances
     by placing points along a path.
 
-Calibration:
+## Calibration:
     You MUST calibrate using a known 100 meter reference distance.
 
-Controls:
+## Controls:
     Left Click      - Add point
     Right Click     - Finish current line
     Middle Drag     - Pan
